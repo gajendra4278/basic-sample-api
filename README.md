@@ -6,7 +6,7 @@
 #### For more information , Please follow  
 
 # Scheduling Topic
-* manual scheduling
+* manual scheduling [*]
 * taint and toleration
 * nodeSelector 
 * affinity / nodeaffinity / anti-affinity
@@ -22,7 +22,7 @@
 * multiple scheduler
 
 # Advance scheduling
-* Node Feature discovery
+* Node Feature discovery []
 * CRD for scheduling
 * Inter-pod and node local resource constraint
 * PodTopology spread
